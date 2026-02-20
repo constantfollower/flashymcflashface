@@ -1,0 +1,444 @@
+{
+  "meta": {
+    "subject": "Geography",
+    "topic": "Core terms",
+    "deck": "Physical and environment",
+    "version": "1.0",
+    "created": "2026-02-17",
+    "source": "SQA Higher Geography course specification and supplied glossary"
+  },
+  "cards": [
+    {
+      "id": "geo_physical_albedo",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Albedo",
+      "back": "The proportion of the incident light or radiation that is reflected by a surface. Forests have a low albedo, whereas ice has a high albedo.",
+      "use": "In a climate question, you might explain how albedo influences weather or climate.",
+      "related": [
+        "geography",
+        "physical",
+        "climate",
+        "atmosphere"
+      ]
+    },
+    {
+      "id": "geo_physical_atmosphere",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Atmosphere",
+      "back": "The layer of gases that surround the Earth consisting mainly of nitrogen and oxygen.",
+      "use": "In a climate question, you might explain how atmosphere influences weather or climate.",
+      "related": [
+        "geography",
+        "physical",
+        "climate",
+        "atmosphere"
+      ]
+    },
+    {
+      "id": "geo_physical_biodiversity",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Biodiversity",
+      "back": "The variety of plant and animal life in the world or in a particular habitat.",
+      "use": "In an environment question, use biodiversity to explain impacts and possible responses.",
+      "related": [
+        "geography",
+        "physical",
+        "environment"
+      ]
+    },
+    {
+      "id": "geo_physical_blowhole",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Blowhole",
+      "back": "This is a crack or fissure in the headland through which air and sea spray is expelled when waves break on the shore.",
+      "use": "Be able to define blowhole clearly in one sentence.",
+      "related": [
+        "geography",
+        "physical"
+      ]
+    },
+    {
+      "id": "geo_physical_cirrus",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Cirrus",
+      "back": "Thin, wispy clouds.",
+      "use": "In a climate question, you might explain how cirrus influences weather or climate.",
+      "related": [
+        "geography",
+        "physical",
+        "climate",
+        "atmosphere"
+      ]
+    },
+    {
+      "id": "geo_physical_cumulonimbus",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Cumulonimbus",
+      "back": "A dense, towering, vertical cloud associated with thunderstorms and atmospheric instability.",
+      "use": "In a climate question, you might explain how cumulonimbus influences weather or climate.",
+      "related": [
+        "geography",
+        "physical",
+        "climate",
+        "atmosphere"
+      ]
+    },
+    {
+      "id": "geo_physical_coriolis_effect",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Coriolis effect",
+      "back": "The anticlockwise rotation of the Earth which deflects winds to the right in the northern hemisphere and to the left in the southern hemisphere.",
+      "use": "In a climate question, you might explain how coriolis effect influences weather or climate.",
+      "related": [
+        "geography",
+        "physical",
+        "climate",
+        "atmosphere"
+      ]
+    },
+    {
+      "id": "geo_physical_differential_erosion",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Differential erosion",
+      "back": "When materials erode at different speeds. This is due to one being more resistant than the other.",
+      "use": "In a differential erosion question, define it and then apply it to a named place.",
+      "related": [
+        "geography",
+        "physical",
+        "rivers",
+        "processes"
+      ]
+    },
+    {
+      "id": "geo_physical_evapotranspiration",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Evapotranspiration",
+      "back": "The combined process of evaporation and transpiration.",
+      "use": "Be able to define evapotranspiration clearly in one sentence.",
+      "related": [
+        "geography",
+        "physical"
+      ]
+    },
+    {
+      "id": "geo_physical_geothermal_energy",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Geothermal energy",
+      "back": "Thermal energy generated and stored in the Earth.",
+      "use": "In an environment question, use geothermal energy to explain impacts and possible responses.",
+      "related": [
+        "geography",
+        "physical",
+        "environment"
+      ]
+    },
+    {
+      "id": "geo_physical_milankovitch_cycles",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Milankovitch cycles",
+      "back": "The collective changes in the Earth’s movements. It is named after the Serbian geophysicist and astronomer Milutin Milanković.",
+      "use": "In a climate question, you might explain how milankovitch cycles influences weather or climate.",
+      "related": [
+        "geography",
+        "physical",
+        "climate",
+        "atmosphere"
+      ]
+    },
+    {
+      "id": "geo_physical_ocean_acidification",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Ocean acidification",
+      "back": "The ongoing decrease in ocean pH – it is caused by the uptake of CO₂ from the atmosphere.",
+      "use": "In an environment question, use ocean acidification to explain impacts and possible responses.",
+      "related": [
+        "geography",
+        "physical",
+        "environment"
+      ]
+    },
+    {
+      "id": "geo_physical_sunspots",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Sunspots",
+      "back": "Temporary phenomena on the sun – they are dark spots where the magnetic field is stronger than anywhere else on the sun.",
+      "use": "In a climate question, you might explain how sunspots influences weather or climate.",
+      "related": [
+        "geography",
+        "physical",
+        "climate",
+        "atmosphere"
+      ]
+    },
+    {
+      "id": "geo_physical_truncated_spurs",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Truncated spurs",
+      "back": "Before glaciations, valleys are made up of interlocking spurs that rivers meander around and form. A truncated spur forms when a glacier erodes the sides of a V-shaped valley, and cuts off the interlocking spurs. This leaves a steep ridge on the valley sides.",
+      "use": "Be able to define truncated spurs clearly in one sentence.",
+      "related": [
+        "geography",
+        "physical"
+      ]
+    },
+    {
+      "id": "geo_physical_westerlies",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Westerlies",
+      "back": "The belt of prevailing westerly winds in mid-latitudes in the southern hemisphere.",
+      "use": "In a climate question, you might explain how westerlies influences weather or climate.",
+      "related": [
+        "geography",
+        "physical",
+        "climate",
+        "atmosphere"
+      ]
+    },
+    {
+      "id": "geo_physical_attrition",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Attrition",
+      "back": "Rock fragments (stones and pebbles) hit against each other and so are reduced in size.",
+      "use": "In a attrition question, define it and then apply it to a named place.",
+      "related": [
+        "geography",
+        "physical",
+        "rivers",
+        "processes"
+      ]
+    },
+    {
+      "id": "geo_physical_hydrosphere",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Hydrosphere",
+      "back": "All the water on Earth, including oceans, rivers, lakes, groundwater, ice and water vapour.",
+      "use": "Be able to define hydrosphere clearly in one sentence.",
+      "related": [
+        "geography",
+        "physical"
+      ]
+    },
+    {
+      "id": "geo_physical_lithosphere",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Lithosphere",
+      "back": "The Earth’s rigid outer layer (crust and uppermost mantle).",
+      "use": "Be able to define lithosphere clearly in one sentence.",
+      "related": [
+        "geography",
+        "physical"
+      ]
+    },
+    {
+      "id": "geo_physical_biosphere",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Biosphere",
+      "back": "All living things and the ecosystems they form.",
+      "use": "Be able to define biosphere clearly in one sentence.",
+      "related": [
+        "geography",
+        "physical"
+      ]
+    },
+    {
+      "id": "geo_physical_hydrological_cycle",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Hydrological cycle",
+      "back": "The continuous movement of water between the atmosphere, land and oceans through processes such as evaporation and precipitation.",
+      "use": "In a hydrological cycle question, define it and then apply it to a named place.",
+      "related": [
+        "geography",
+        "physical",
+        "rivers",
+        "processes"
+      ]
+    },
+    {
+      "id": "geo_physical_drainage_basin",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Drainage basin",
+      "back": "The area of land drained by a river and its tributaries.",
+      "use": "In a drainage basin question, define it and then apply it to a named place.",
+      "related": [
+        "geography",
+        "physical",
+        "rivers",
+        "processes"
+      ]
+    },
+    {
+      "id": "geo_physical_river_basin_management",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "River basin management",
+      "back": "Planning and managing land and water in a drainage basin to balance human needs and reduce impacts such as flooding and pollution.",
+      "use": "In a river basin management question, define it and then apply it to a named place.",
+      "related": [
+        "geography",
+        "physical",
+        "rivers",
+        "processes"
+      ]
+    },
+    {
+      "id": "geo_physical_renewable_energy",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Renewable energy",
+      "back": "Energy from sources that are naturally replenished, such as wind, solar, hydro and geothermal.",
+      "use": "In an environment question, use renewable energy to explain impacts and possible responses.",
+      "related": [
+        "geography",
+        "physical",
+        "environment"
+      ]
+    },
+    {
+      "id": "geo_physical_non_renewable_energy",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Non-renewable energy",
+      "back": "Energy from finite sources that will run out, such as coal, oil, gas and nuclear fuel.",
+      "use": "In an environment question, use non-renewable energy to explain impacts and possible responses.",
+      "related": [
+        "geography",
+        "physical",
+        "environment"
+      ]
+    },
+    {
+      "id": "geo_physical_sustainability",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Sustainability",
+      "back": "Using resources in a way that meets current needs while protecting the environment and opportunities for future generations.",
+      "use": "In an environment question, use sustainability to explain impacts and possible responses.",
+      "related": [
+        "geography",
+        "physical",
+        "environment"
+      ]
+    },
+    {
+      "id": "geo_physical_climate_change",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Climate change",
+      "back": "Long term changes in climate patterns, including temperature and precipitation, over decades or longer.",
+      "use": "In a climate question, you might explain how climate change influences weather or climate.",
+      "related": [
+        "geography",
+        "physical",
+        "climate",
+        "atmosphere"
+      ]
+    },
+    {
+      "id": "geo_physical_weather",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Weather",
+      "back": "The day to day conditions of the atmosphere, such as temperature, precipitation and wind.",
+      "use": "In a climate question, you might explain how weather influences weather or climate.",
+      "related": [
+        "geography",
+        "physical",
+        "climate",
+        "atmosphere"
+      ]
+    },
+    {
+      "id": "geo_physical_precipitation",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Precipitation",
+      "back": "Water that falls from the atmosphere to the Earth’s surface, such as rain, snow or hail.",
+      "use": "In a climate question, you might explain how precipitation influences weather or climate.",
+      "related": [
+        "geography",
+        "physical",
+        "climate",
+        "atmosphere"
+      ]
+    },
+    {
+      "id": "geo_physical_erosion",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Erosion",
+      "back": "The wearing away and removal of rock or soil by moving water, wind or ice.",
+      "use": "In a erosion question, define it and then apply it to a named place.",
+      "related": [
+        "geography",
+        "physical",
+        "rivers",
+        "processes"
+      ]
+    },
+    {
+      "id": "geo_physical_deposition",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Physical and environment",
+      "front": "Deposition",
+      "back": "The laying down of material transported by water, wind or ice.",
+      "use": "In a deposition question, define it and then apply it to a named place.",
+      "related": [
+        "geography",
+        "physical",
+        "rivers",
+        "processes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "meta": {
+    "subject": "Geography",
+    "topic": "Prelim (Soils / Coasts / Climate)",
+    "deck": "Global Climate Change (Causes / Effects / Management)",
+    "version": "1.0",
+    "created": "2026-02-20",
+    "source": "32_Core_Global_Climate_Change.txt (TOPIC::GLOBAL::CLIMATE_CHANGE)"
+  },
+  "cards": [
+    {
+      "id": "geo_prelim_cc_001",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Climate change",
+      "back": "Long term change in average weather patterns.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_002",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Global warming",
+      "back": "Rise in average global temperature.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_003",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Greenhouse effect",
+      "back": "Gases in the atmosphere trap some outgoing heat (infrared radiation) and warm the Earth.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_004",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Enhanced greenhouse effect",
+      "back": "Extra greenhouse gases from human activity increase heat trapped.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_010",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Milankovitch cycles: what are they?",
+      "back": "Slow changes in Earth’s orbit and tilt that change how much solar energy reaches Earth.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_011",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Milankovitch cycles: eccentricity",
+      "back": "Changes in the shape of Earth’s orbit (distance from the Sun varies over time).",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_012",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Milankovitch cycles: axial tilt",
+      "back": "Changes the strength of seasons and how solar energy is distributed.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_013",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Milankovitch cycles: precession",
+      "back": "A wobble that changes the timing of seasons relative to Earth’s orbit.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_014",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Volcanic eruptions (climate)",
+      "back": "Ash and sulphur aerosols can reflect sunlight → short-term cooling (months to a few years).",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_015",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Solar output variation",
+      "back": "The Sun’s energy output changes slightly over time and can influence climate on long timescales.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_020",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Fossil fuel combustion: mechanism",
+      "back": "Burning coal/oil/gas releases CO₂. More CO₂ → more heat trapped → higher temperatures.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_021",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Deforestation: mechanism",
+      "back": "Less carbon stored + less photosynthesis; CO₂ can be released if trees burn/decay → higher CO₂.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_022",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Agriculture: methane and nitrous oxide",
+      "back": "Methane (CH₄) from cattle digestion and rice paddies; nitrous oxide (N₂O) from fertilisers.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_023",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Industry and cement: mechanism",
+      "back": "Some industrial processes (including cement production) release CO₂ and other greenhouse gases.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_024",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Transport: mechanism",
+      "back": "Vehicles/planes/ships burn fossil fuels → CO₂ emissions.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_030",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Sea level rise: two main reasons",
+      "back": "Thermal expansion (warmer water expands) and melting of land ice (glaciers/ice sheets).",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_031",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Sea level rise: impacts",
+      "back": "Coastal flooding, erosion, and saltwater intrusion into soils/groundwater.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_032",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "More extreme weather",
+      "back": "Higher temperatures can increase intensity/frequency of some extremes (e.g., heatwaves, heavy rainfall; drought risk in some regions).",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_033",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Melting glaciers/ice sheets: why it matters",
+      "back": "Contributes to sea level rise and can affect river flow in some places.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_034",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Ecosystem change",
+      "back": "Habitats shift as climate changes → species migration, biodiversity loss, stress on coral/forests in some regions.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_035",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Ocean warming and acidification",
+      "back": "Oceans absorb heat and CO₂: warming affects marine ecosystems; CO₂ lowers pH, affecting shell-forming organisms.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_036",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Changing rainfall patterns (local effect)",
+      "back": "Some places get wetter, others drier, and seasons can shift → affects water supply, floods, and farming.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_037",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Health impacts",
+      "back": "Heat stress; spread of disease vectors in some regions; air quality issues from wildfire smoke.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_038",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Economic impacts",
+      "back": "Damage to property/infrastructure, insurance costs, impacts on farming/fishing/tourism.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_039",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Social impacts",
+      "back": "Displacement, pressure on services, greater inequality where poorer groups can’t adapt.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_050",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Mitigation vs adaptation",
+      "back": "Mitigation = reduce the cause (cut emissions/increase sinks).\nAdaptation = reduce the impact (prepare for/manage effects).",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_051",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Mitigation: renewable energy (how it works + limits)",
+      "back": "Replaces fossil-fuel electricity → lower CO₂.\nLimits: intermittency, storage/grid upgrades, planning opposition, high initial cost.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_052",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Mitigation: energy efficiency (how it works + limits)",
+      "back": "Uses less energy for same output → lower emissions.\nLimits: upfront cost, slow adoption, rebound effect.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_053",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Mitigation: low-carbon transport (how it works + limits)",
+      "back": "Public transport/EVs/cycling/rail reduce fossil fuel use.\nLimits: charging infrastructure, battery materials, behaviour change, rural access.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_054",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Mitigation: CCS (how it works + limits)",
+      "back": "Captures CO₂ at source and stores it underground.\nLimits: expensive, energy intensive, storage/safety concerns, not available everywhere.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_055",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Mitigation: afforestation/reforestation (how it works + limits)",
+      "back": "Trees absorb CO₂ (carbon sink).\nLimits: land competition, time lag, fire/disease risk, not enough alone.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_056",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Mitigation: agreements & carbon pricing (how it works + limits)",
+      "back": "Targets and incentives reduce emissions.\nLimits: enforcement/politics, carbon leakage, fairness debates.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_060",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Adaptation: flood defences & coastal management (how + limits)",
+      "back": "Sea walls/barriers/managed realignment reduce flood damage.\nLimits: high cost/maintenance; can shift problems; cannot protect everywhere.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_061",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Adaptation: water management (how + limits)",
+      "back": "Reservoirs/transfers/leakage reduction/demand management help drought risk.\nLimits: cost, environmental impacts, user conflict, long planning times.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_062",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Adaptation: climate-resilient farming (how + limits)",
+      "back": "Drought-tolerant crops, new planting dates, efficient irrigation, soil conservation.\nLimits: cost, uncertainty, water availability.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_063",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Adaptation: urban heat management (how + limits)",
+      "back": "Trees/green spaces, reflective surfaces, building design, cooling centres.\nLimits: space, funding, unequal benefits, maintenance.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_064",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Adaptation: emergency planning & early warning (how + limits)",
+      "back": "Forecasting + preparedness reduce harm.\nLimits: forecast uncertainty, compliance, resources; severe events can still hit.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_070",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Explain a cause: best answer structure",
+      "back": "Cause (name it) → Mechanism (how it changes energy balance/greenhouse gases) → Result (warming/cooling or changing climate patterns).",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_cc_071",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Global Climate Change (Causes / Effects / Management)",
+      "front": "Evaluate management: what you must include",
+      "back": "Compare effectiveness, cost, timescale, reliability/fairness + give limitations + finish with a justified conclusion.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    }
+  ]
+}

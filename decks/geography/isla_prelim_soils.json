@@ -1,0 +1,516 @@
+{
+  "meta": {
+    "subject": "Geography",
+    "topic": "Prelim (Soils / Coasts / Climate)",
+    "deck": "Soils (Brown earth / Podzol / Gley)",
+    "version": "1.0",
+    "created": "2026-02-20",
+    "source": "31_Core_Physical_Biosphere_Soils.txt (TOPIC::BIOSPHERE::SOILS)"
+  },
+  "cards": [
+    {
+      "id": "geo_prelim_soils_001",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Soil profile: what are horizons?",
+      "back": "A soil profile is made of layers called horizons.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_002",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "O horizon",
+      "back": "Organic litter (leaf litter) at the surface.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_003",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "A horizon",
+      "back": "Topsoil: dark and humus-rich.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_004",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "B horizon",
+      "back": "Subsoil: where material can build up (illuviation).",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_005",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "C horizon",
+      "back": "Parent material: weathered rock.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_006",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Two key controls on soil type",
+      "back": "Climate (temperature + rainfall) and vegetation (leaf litter type/amount).",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_007",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Humification",
+      "back": "Decay into humus: dead plants break down into dark organic matter.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_008",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Mineralisation",
+      "back": "Nutrients released: organic matter becomes available nutrients.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_009",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Leaching",
+      "back": "Washing down: dissolved material moves down with water.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_010",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Eluviation",
+      "back": "Washing out: fine particles and minerals removed from a horizon.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_011",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Illuviation",
+      "back": "Washing in: materials build up in a lower horizon.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_012",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Gleying",
+      "back": "Waterlogging effect: grey/blue colours form due to lack of oxygen.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_020",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Brown earth: plain English",
+      "back": "A well-mixed, fertile soil in mild climates with deciduous trees.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_021",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Brown earth: typical conditions",
+      "back": "Temperate mild climate; deciduous woodland/mixed vegetation; good drainage.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_022",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Brown earth: formation (step 1–3)",
+      "back": "1) Leaf litter forms O horizon.\n2) Litter decomposes fairly quickly (humification).\n3) Organisms mix humus into topsoil (bioturbation).",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_023",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Brown earth: formation (step 4–6)",
+      "back": "4) Nutrients recycled efficiently (mineralisation).\n5) Limited leaching (moderate rainfall).\n6) Thick brown A horizon; gradual change into B horizon.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_024",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Brown earth: properties",
+      "back": "Fertile and well structured; thick dark-brown humus-rich topsoil; horizons not sharply separated.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_025",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Brown earth: clues in a description",
+      "back": "Deciduous woodland + mild climate + good drainage; dark well-mixed topsoil; few sharp layers.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_026",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Brown earth: common mistake",
+      "back": "Saying strong leaching is the main process (it is limited).",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_030",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Podzol: plain English",
+      "back": "An acidic, leached soil under coniferous forest or heath, with clear layers.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_031",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Podzol: typical conditions",
+      "back": "Cool and wet climate; coniferous forest/heath (needle litter); heavy rainfall drives water downward; often sandy/acidic parent material.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_032",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Podzol: key processes",
+      "back": "Strong leaching + eluviation remove minerals/organic compounds from upper horizons; illuviation deposits material in B horizon.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_033",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Podzol: formation (step 1–3)",
+      "back": "1) Needle litter decomposes slowly → acidic conditions.\n2) Acidity limits organisms → weak mixing.\n3) Heavy rainfall drives strong leaching.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_034",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Podzol: formation (step 4–7)",
+      "back": "4) Eluviation removes iron, aluminium and humus from A/E.\n5) Pale ash-grey E horizon develops.\n6) Illuviation deposits iron/aluminium + humus in B.\n7) Thin acidic topsoil → low fertility.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_035",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Podzol: properties",
+      "back": "Acidic and low fertility; clear sharply separated horizons; pale leached layer near surface; darker stained B horizon.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_036",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Podzol: clues in a description",
+      "back": "Conifers/heath; cool wet/upland; pale grey layer under topsoil, then darker layer below.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_037",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Podzol: common mistake",
+      "back": "Forgetting the pale leached horizon (E horizon).",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_040",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Gley soil: plain English",
+      "back": "A waterlogged soil where poor drainage causes grey colours.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_041",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Gley soil: typical conditions",
+      "back": "Very poor drainage; often flat/low-lying or impermeable clay below; water sits in the soil for long periods.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_042",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Gley soil: key process",
+      "back": "Gleying: waterlogging reduces oxygen, changing iron compounds → grey/blue-grey colours.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_043",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Gley soil: formation (step 1–3)",
+      "back": "1) Water cannot drain away (impermeable layer/flat land/high rainfall).\n2) Soil stays waterlogged.\n3) Lack of oxygen slows decomposition.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_044",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Gley soil: formation (step 4–6)",
+      "back": "4) Iron is reduced and moved → grey/blue-grey colours.\n5) Rust-coloured mottles can appear when iron re-oxidises.\n6) Poorly aerated unless drained.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_045",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Gley soil: properties",
+      "back": "Poor drainage; grey/blue-grey colour often with rusty mottling; lower biological activity; low agricultural potential without drainage.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_046",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Gley soil: clues in a description",
+      "back": "Flat boggy/marshy ground; heavy clay; waterlogging; grey-blue soil with orange/rusty spots.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_047",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Gley soil: common mistake",
+      "back": "Describing it as mainly caused by leaching (main cause is waterlogging).",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_soils_060",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Soils (Brown earth / Podzol / Gley)",
+      "front": "Quick compare: Brown earth vs Podzol vs Gley",
+      "back": "Brown earth: mild + deciduous + good drainage → well mixed, fertile.\nPodzol: cool wet + conifer/heath + strong leaching → acidic, clear horizons, pale E horizon.\nGley: poor drainage + waterlogging → grey/blue colours, mottling.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    }
+  ]
+}

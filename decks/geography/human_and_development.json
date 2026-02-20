@@ -1,0 +1,364 @@
+{
+  "meta": {
+    "subject": "Geography",
+    "topic": "Core terms",
+    "deck": "Human and development",
+    "version": "1.0",
+    "created": "2026-02-17",
+    "source": "SQA Higher Geography course specification and supplied glossary"
+  },
+  "cards": [
+    {
+      "id": "geo_human_census",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Census",
+      "back": "Population count and survey that is carried out every 10 years in most countries.",
+      "use": "Be able to define census clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_demographic",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Demographic",
+      "back": "Study of population structure.",
+      "use": "Be able to define demographic clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_migration",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Migration",
+      "back": "The movement of people from one place to another. Movement from within a country is called internal migration, and between two different countries it is called international migration.",
+      "use": "Be able to define migration clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_emigration",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Emigration",
+      "back": "When people move away from one country.",
+      "use": "Be able to define emigration clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_forced_migration",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Forced migration",
+      "back": "The movement of people from their country of origin to another in search of safety from war, environmental disaster or religious or ethnic persecution.",
+      "use": "Be able to define forced migration clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_voluntary_migration",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Voluntary migration",
+      "back": "The movement of people from one place to another based on family links or economic prospects.",
+      "use": "Be able to define voluntary migration clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_refugee",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Refugee",
+      "back": "Term given to people who flee their home country in search of safety.",
+      "use": "Be able to define refugee clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_long_term_migration",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Long-term migration",
+      "back": "When people decide to settle somewhere else permanently.",
+      "use": "Be able to define long-term migration clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_short_term_migration",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Short-term migration",
+      "back": "Seasonal migration of agricultural workers or international students studying abroad for their degrees, for example.",
+      "use": "Be able to define short-term migration clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_rural_urban_migration",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Rural-urban migration",
+      "back": "When people leave their homes in the countryside in search of education or employment in the city.",
+      "use": "Be able to define rural-urban migration clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_urban_rural_migration",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Urban-rural migration",
+      "back": "When people leave their city lives in search of a quieter life in the countryside.",
+      "use": "Be able to define urban-rural migration clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_counter_urbanisation",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Counter-urbanisation",
+      "back": "When people move out of the city and inner city to live in the countryside.",
+      "use": "Be able to define counter-urbanisation clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_megacity",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Megacity",
+      "back": "An urban settlement with a population of more than 10 million.",
+      "use": "Be able to define megacity clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_urban_sprawl",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Urban sprawl",
+      "back": "When towns and cities grow out into the countryside.",
+      "use": "Be able to define urban sprawl clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_urbanisation",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Urbanisation",
+      "back": "The growth of towns and cities.",
+      "use": "Be able to define urbanisation clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_subsistence_farming",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Subsistence farming",
+      "back": "When farmers grow crops and rear animals to feed just themselves and their family, and not to sell.",
+      "use": "Be able to define subsistence farming clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_globalisation",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Globalisation",
+      "back": "Growing interconnection between places through flows of goods, services, people, capital and information.",
+      "use": "Be able to define globalisation clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_development",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Development",
+      "back": "Improvements in people’s living conditions and wellbeing, often measured using social and economic indicators.",
+      "use": "Be able to define development clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_quality_of_life",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Quality of life",
+      "back": "Overall wellbeing, often measured using indicators such as health, income, housing and access to services.",
+      "use": "Be able to define quality of life clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_health",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Health",
+      "back": "A state of physical and mental wellbeing.",
+      "use": "Be able to define health clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_disease",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Disease",
+      "back": "An illness or condition that affects health.",
+      "use": "Be able to define disease clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_aid",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Aid",
+      "back": "Support given to people, organisations or countries, usually as money, goods or services, to help development or respond to emergencies.",
+      "use": "Be able to define aid clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_trade",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Trade",
+      "back": "The buying and selling of goods and services between places or countries.",
+      "use": "Be able to define trade clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_sustainable_development",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Sustainable development",
+      "back": "Development that meets present needs without damaging the environment or limiting future generations.",
+      "use": "In an environment question, use sustainable development to explain impacts and possible responses.",
+      "related": [
+        "geography",
+        "human",
+        "environment"
+      ]
+    },
+    {
+      "id": "geo_human_population",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Population",
+      "back": "The number of people living in a place.",
+      "use": "Be able to define population clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_urban",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Urban",
+      "back": "Relating to towns and cities.",
+      "use": "Be able to define urban clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    },
+    {
+      "id": "geo_human_rural",
+      "subject": "Geography",
+      "topic": "Core terms",
+      "deck": "Human and development",
+      "front": "Rural",
+      "back": "Relating to the countryside.",
+      "use": "Be able to define rural clearly in one sentence.",
+      "related": [
+        "geography",
+        "human"
+      ]
+    }
+  ]
+}

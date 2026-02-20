@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "subject": "Geography",
+    "topic": "Prelim (Soils / Coasts / Climate)",
+    "deck": "Coasts (Processes + Landforms)",
+    "version": "1.0",
+    "created": "2026-02-20",
+    "source": "10_TeacherPack_Stage2A.txt (TOPIC::LITHOSPHERE::COASTS_LANDFORMS)"
+  },
+  "cards": [
+    {
+      "id": "geo_prelim_coasts_001",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Hydraulic action (coasts)",
+      "back": "Waves force air into cracks in rocks/cliffs, increasing pressure and widening cracks.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_002",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Abrasion (coasts)",
+      "back": "Waves throw rock fragments against cliffs, wearing them away (like sandpaper).",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_003",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Corrosion / solution (coasts)",
+      "back": "Seawater dissolves some rock, helping to enlarge hollows and pools.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_010",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Cave → arch → stack: why do caves start?",
+      "back": "Headlands are often cracked/jointed; hydraulic action widens cracks until a cave forms.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_011",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Cave → arch → stack: how does an arch form?",
+      "back": "Continued erosion (e.g., abrasion) enlarges the cave until it breaks through the headland.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_012",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Cave → arch → stack: how does a stack form?",
+      "back": "The arch roof becomes unsupported and collapses, leaving an isolated pillar (stack).",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_013",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "What is a stump?",
+      "back": "A stack that has collapsed/decreased in size due to continued wave attack.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_020",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Wave-cut notch: how does it form?",
+      "back": "Hydraulic action and abrasion cut into the cliff base, creating a notch.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_021",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Wave-cut platform: how does it form?",
+      "back": "Notch undercuts the cliff; rock above collapses; repeated erosion leaves a gently sloping platform exposed at low tide (abrasion + corrosion keep lowering it).",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_030",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Headlands and bays: why do they form?",
+      "back": "Bands of hard and soft rock along the coast erode at different rates (differential erosion).",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_031",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Headlands and bays: what happens to soft rock?",
+      "back": "Soft rock erodes faster, creating a bay; eroded material can speed up erosion by abrasion.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_032",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Headlands and bays: what happens to hard rock?",
+      "back": "Hard rock withstands erosion better, so it is left jutting out as a headland.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_033",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Bays: why are beaches common there?",
+      "back": "Lower energy and more shelter encourages deposition, forming a beach.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_040",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Longshore drift: why do waves move sediment along a beach?",
+      "back": "Waves approach at an angle (often ~45°) due to prevailing wind; swash moves material up the beach at that angle.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_041",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Longshore drift: swash vs backwash",
+      "back": "Swash moves material up the beach in the wave direction; backwash flows straight back down the beach due to gravity.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_042",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Longshore drift: overall movement",
+      "back": "A zig-zag transport of sediment along the coast caused by angled swash and straight backwash.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_050",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Spit: what starts it?",
+      "back": "Longshore drift transports sand/shingle along a coast towards a change in direction.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_051",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Spit: why does it build outwards?",
+      "back": "At a change in coastline direction, sediment is deposited in sheltered water, building a spit out from the land.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_052",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Spit: why can it curve (recurved end)?",
+      "back": "Winds/waves from a different direction push the end inwards, curving it.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_053",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Spit: why can’t it always cross an estuary?",
+      "back": "A river’s flow carries material out to sea, limiting growth across the channel.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_054",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Spit: what forms in the sheltered water behind it?",
+      "back": "Salt marshes can develop in the sheltered water behind the spit.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_060",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Bar: how is it different from a spit?",
+      "back": "A bar forms when a spit grows right across a bay (often where there is no river to carry sediment out to sea).",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_061",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Bar: lagoon",
+      "back": "A lagoon is usually found on the landward side of a bar and may fill over time to form a salt marsh.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_062",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Bar: another way it can form",
+      "back": "A sand bank offshore can be moved landwards by waves until it joins the mainland.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_070",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Tombolo",
+      "back": "A depositional feature where a spit links the mainland to an island.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    },
+    {
+      "id": "geo_prelim_coasts_080",
+      "subject": "Geography",
+      "topic": "Prelim (Soils / Coasts / Climate)",
+      "deck": "Coasts (Processes + Landforms)",
+      "front": "Coast diagrams from memory: exam tip",
+      "back": "Use simple sketches: headline the feature, then label 3–5 processes/steps clearly.",
+      "use": "",
+      "related": [
+        "geography",
+        "higher",
+        "prelim"
+      ]
+    }
+  ]
+}
