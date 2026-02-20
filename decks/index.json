@@ -1,14 +1,8 @@
 [
-  {
-    "kind": "folder",
-    "label": "Geography / All decks",
-    "subject": "Geography"
-  },
-  {
-    "kind": "folder",
-    "label": "Geography / Prelim (Soils / Coasts / Climate)",
-    "subject": "Geography"
-  },
+  { "kind": "folder", "label": "Geography / All decks", "subject": "Geography" },
+
+  { "kind": "folder", "label": "Geography / Prelim (Soils / Coasts / Climate)", "subject": "Geography" },
+
   {
     "kind": "deck",
     "label": "Geography / Prelim (Soils / Coasts / Climate) / Soils",
@@ -33,6 +27,7 @@
     "deck": "Global Climate Change (Causes / Effects / Management)",
     "file": "decks/geography/isla_prelim_climate_change.json"
   },
+
   {
     "kind": "deck",
     "label": "Geography / Core terms / Physical and environment",
@@ -48,68 +43,5 @@
     "topic": "Core terms",
     "deck": "Human and development",
     "file": "decks/geography/human_and_development.json"
-  },
-  {
-    "kind": "folder",
-    "label": "English / All decks",
-    "subject": "English"
-  },
-  {
-    "kind": "deck",
-    "label": "English / RUAE / Language and question words",
-    "subject": "English",
-    "topic": "RUAE",
-    "deck": "Language and question words",
-    "file": "decks/english/ruae_language_and_question_words.json"
-  },
-  {
-    "kind": "deck",
-    "label": "English / Critical essay / Key terms",
-    "subject": "English",
-    "topic": "Critical essay",
-    "deck": "Key terms",
-    "file": "decks/english/critical_essay_key_terms.json"
-  },
-  {
-    "kind": "folder",
-    "label": "Drama / All decks",
-    "subject": "Drama"
-  },
-  {
-    "kind": "deck",
-    "label": "Drama / Performance skills / Acting and theatre arts",
-    "subject": "Drama",
-    "topic": "Performance skills",
-    "deck": "Acting and theatre arts",
-    "file": "decks/drama/acting_and_theatre_arts.json"
-  },
-  {
-    "kind": "deck",
-    "label": "Drama / Production / Design, roles and evaluation",
-    "subject": "Drama",
-    "topic": "Production",
-    "deck": "Design, roles and evaluation",
-    "file": "decks/drama/design_roles_and_evaluation.json"
-  },
-  {
-    "kind": "folder",
-    "label": "Art and Design / All decks",
-    "subject": "Art and Design"
-  },
-  {
-    "kind": "deck",
-    "label": "Art and Design / Elements / Visual elements and principles",
-    "subject": "Art and Design",
-    "topic": "Elements",
-    "deck": "Visual elements and principles",
-    "file": "decks/art_and_design/visual_elements_and_principles.json"
-  },
-  {
-    "kind": "deck",
-    "label": "Art and Design / Process / Design and expressive workflow",
-    "subject": "Art and Design",
-    "topic": "Process",
-    "deck": "Design and expressive workflow",
-    "file": "decks/art_and_design/design_and_expressive_workflow.json"
   }
 ]
